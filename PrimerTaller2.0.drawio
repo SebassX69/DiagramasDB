@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Página-1" id="2kknnnNVVvukoXmi1JOT">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -840,6 +840,15 @@
         </mxCell>
         <mxCell id="BSt3F1lZJPGfBE_fID-A-174" value="10. Biblioteca de Manuscritos Antiguos " style="whiteSpace=wrap;html=1;align=center;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="1215" y="800" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BSt3F1lZJPGfBE_fID-A-175" value="Astronauta" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="134" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BSt3F1lZJPGfBE_fID-A-177" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="66" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BSt3F1lZJPGfBE_fID-A-179" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
