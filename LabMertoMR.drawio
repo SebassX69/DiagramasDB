@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xpCKJEiRQMzCjA9dS5BB-174" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="850" y="40" width="790" height="950" as="geometry" />
+        </mxCell>
         <mxCell id="APYV1JquLKEHyIDqI38q-245" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="2490" y="38" width="790" height="1062" as="geometry" />
         </mxCell>
@@ -782,9 +785,6 @@
         </mxCell>
         <mxCell id="xpCKJEiRQMzCjA9dS5BB-173" value="(1:N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="318" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xpCKJEiRQMzCjA9dS5BB-174" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="850" y="40" width="790" height="950" as="geometry" />
         </mxCell>
         <mxCell id="xpCKJEiRQMzCjA9dS5BB-175" value="Ejercicio 2: Sistema de Reservas de Hotel" style="whiteSpace=wrap;html=1;align=center;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1210" y="40" width="120" height="60" as="geometry" />
